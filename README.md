@@ -1,1 +1,3 @@
-# Sql-nosheen-yasheen-DE24
+# SQL course is using duckdb
+
+
